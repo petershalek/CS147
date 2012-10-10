@@ -12,11 +12,10 @@
 	</head>
 
 	<body>
-	
 		<div class="whitebit"></div>
 
 		<div class="bottombit">
-			<p class="explanation">Intrepid spy, your next dead drop location is -37.402549, 122.094403.</p>
+			<p class="explanation">Intrepid spy, your next drop location is -37.402549, 122.094403.</p>
 			<div id="button">Refresh GPS: <div id="timer"></div></div>
 
 			<div class="area">
@@ -27,8 +26,10 @@
 		</div>
 
 		<script type="text/javascript">
-		
+
 		</script>
+
+
 		<script type="text/javascript">
 		
 		</script>
