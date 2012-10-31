@@ -59,6 +59,14 @@ function success(position) {
       map: map, 
       title:"You are here!"
   });
+  
+  var contentString = 'Hello I am here';
+
+    var infowindow = new google.maps.InfoWindow({
+		content: contentString
+	});
+	
+	infowindow.open(map,marker);  
 }
 
 function error(msg) {
